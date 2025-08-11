@@ -1,0 +1,2 @@
+pyinstaller
+# any other modules you use
